@@ -1,4 +1,8 @@
 {
-     "name": "svgs",
-     "version": "1.0.0"
+  "name": "svgs",
+  "version": "1.0.0",
+  "description": "svgs",
+  "main": "",
+  "license": "MIT",
+  "homepage": ""
 }
